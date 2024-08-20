@@ -8,4 +8,6 @@ function myFun(x1, x2)
 end
 ```
 
-<img src="loss.png" alt="loss" width="500"/>
+<img src="loss.png" alt="loss" width="500"/>   
+
+<img src="function_approximation.png" alt="function approximation" width="500"/> 
