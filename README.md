@@ -7,3 +7,5 @@ function myFun(x1, x2)
     return f
 end
 ```
+
+<img src="loss.png" alt="loss" width="200"/>
